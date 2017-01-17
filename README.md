@@ -1,2 +1,2 @@
-# pdf-samples
-Sample PDF files for testing/development
+- minimal.pdf
+  - Absolute minimal PDF file
